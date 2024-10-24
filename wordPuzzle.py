@@ -1,5 +1,7 @@
 import random
-#Santos Israel
+
+# For Bryan Chavez
+#////////////////////////////////////////////////////////////////////////////////////////////
 # Welcome to the word guessing game!
 # Instructions: You will be given a word, represented by underscores. You have to guess the word
 # by entering guesses. You will have 10 attempts to guess the correct word.
