@@ -9,8 +9,10 @@ import random
 # An uppercase letter in the hint indicates a correct letter in the correct position,
 # a lowercase letter indicates the letter exists in the word but is in the wrong position,
 # and an underscore means the letter is not in the word at all.
-# After the game ends, you can choose to play again or exit.
+# After the game ends, you can
+#  choose to play again or exit.
 # Enjoy the game and good luck!
+#ghthttt
 
 # Main function for the word guessing game
 def word_guessing_game():
